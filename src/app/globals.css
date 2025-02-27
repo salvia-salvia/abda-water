@@ -3,19 +3,49 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+    --background: #ffffff;
+    --foreground: #171717;
+    --primary: #4aa5ff;
+    --secondary: #888;
+}
+html {
+  scroll-behavior: smooth;
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+    :root {
+        --background: #0a0a0a;
+        --foreground: #ededed;
+    }
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+/* Change color of Swiper navigation arrows */
+.swiper-button-next,
+.swiper-button-prev {
+    color: #9d9ea1 !important;
+    display: none !important;
 }
+
+.swiper-pagination-bullet {
+    background: #494c52 !important; /* Example: Blue color */
+    padding: 6px !important;
+    z-index: 40 !important;
+}
+.swiper-pagination-bullet-active {
+    background: #575454 !important;
+}
+@layer utilities {
+    ::-webkit-scrollbar {
+      width: 10px;
+    }
+    ::-webkit-scrollbar-track {
+      background: theme("colors.blue.100");
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #4AA5FF; /* Custom blue */
+      border-radius: 5px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: #093365; /* Darker blue on hover */
+    }
+  }

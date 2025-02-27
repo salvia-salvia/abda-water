@@ -1,0 +1,105 @@
+{
+    "title": "Abda Water - Desalination & Water Treatment Materials",
+    "description": "Leading supplier of high-quality materials and equipment for seawater desalination and water treatment, ensuring durability and efficiency.",
+    "og_title": "Abda Water - Desalination & Water Treatment Materials",
+    "og_description": "Leading supplier of high-quality materials and equipment for seawater desalination and water treatment, ensuring durability and efficiency.",
+    "og_image": "/icons/primary-logo.svg",
+    "keywords": "desalination, water treatment, high-quality materials, seawater desalination, water purification",
+
+    "navbar": {
+        "home": "home",
+        "services": "services",
+        "about": "about",
+        "contact": "contact"
+    },
+    "hero": {
+        "title": {
+            "part_one": "Premium Materials &",
+            "part_two": "Equipment for Seawater Desalination."
+        },
+        "desc": "Providing high-quality materials and equipment for efficient seawater desalination and water treatment.",
+        "btn_text": "read more"
+    },
+    "services_section": {
+        "title": { "part_one": "Industries", "part_two": "Served" },
+        "link_text": "read more",
+        "slides": [
+            {
+                "id": 1,
+                "title": "Membranes & Filtration Systems",
+                "text": "Efficient filtration solutions for seawater desalination and water treatment."
+            },
+            {
+                "id": 2,
+                "title": "Water Desalination & Treatment Solutions",
+                "text": "Water desalination and treatment solutions provide clean, potable water by removing salts and impurities from seawater."
+            },
+            {
+                "id": 3,
+                "title": "Pumps & Hydraulic Equipment",
+                "text": "Reliable high-performance pumps and hydraulic components for optimal water flow."
+            },
+            {
+                "id": 4,
+                "title": "Monitoring & Control Systems",
+                "text": "Smart automation and real-time monitoring for precise water quality control."
+            },
+            {
+                "id": 5,
+                "title": "Spare Parts & Accessories",
+                "text": "Durable spare parts and accessories to ensure long-term system performance."
+            }
+        ]
+    },
+    "about_section": {
+        "presentation": {
+            "title": "Experts in Water Desalination Servicing & Maintenance.",
+            "desc": "ABDA WATER was established to supply high-quality materials and equipment for seawater desalination and water treatment. Over the years, we have grown into a trusted provider, offering a wide range of reliable products that ensure efficiency and durability in water treatment systems  worldwide.",
+            "btn_text": "read more"
+        },
+        "description": {
+            "title": "Experts in Water Desalination Servicing & Maintenance.",
+            "sub_title": " Breaking down complex business processes",
+            "desc_part_one": " ABDA WATER has been a leading supplier of high-quality materials and equipment for seawater desalination and water treatment, ensuring efficient and sustainable water solutions.",
+            "desc_part_two": "In recent years, our growth has been driven by the increasing global demand for advanced water treatment technologies. We remain committed to providing reliable and innovative materials that enhance the performance and longevity of desalination systems, supporting industries and communities in securing clean water resources."
+        },
+        "features": {
+            "feat_one": {
+                "title": "Quality & Reliability",
+                "desc": "We provide top-tier materials and equipment for seawater desalination, ensuring durability, efficiency, and compliance with international standards."
+            },
+            "feat_two": {
+                "title": "Sustainable Solutions",
+                "desc": "Our products support sustainable water treatment practices, helping industries and communities access clean water while reducing environmental impact."
+            },
+            "feat_three": {
+                "title": "Expert Support",
+                "desc": "Our team offers technical expertise and tailored solutions to ensure optimal performance of desalination systems and long-term reliability."
+            }
+        }
+    },
+    "contact_us": {
+        "title": "Call Us or Fill The Form",
+        "desc": "Leave your information and submit to us. Subscribe to our newsletters for more updates and reports.",
+        "form": {
+            "placeholder_name": "name",
+            "placeholder_email": "your email",
+            "placeholder_phone": "phone Number",
+            "placeholder_msg": "message",
+            "btn_text": "send Message"
+        },
+        "contact_type": {
+            "location": "Location",
+            "call": "Call Center",
+            "email": "Email Us"
+        }
+    },
+    "footer": {
+        "contact": "contact us",
+        "resources": "resources",
+        "copyright": {
+            "part_one": "Copyright",
+            "part_two": "All rights reserved."
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "title": "Abda Water - Matériaux de Dessalement et de Traitement de l'Eau",
+    "description": "Fournisseur leader de matériaux et d'équipements de haute qualité pour le dessalement de l'eau de mer et le traitement de l'eau, garantissant durabilité et efficacité.",
+    "og_title": "Abda Water - Matériaux de Dessalement et de Traitement de l'Eau",
+    "og_description": "Fournisseur leader de matériaux et d'équipements de haute qualité pour le dessalement de l'eau de mer et le traitement de l'eau, garantissant durabilité et efficacité.",
+    "og_image": "/icons/primary-logo.svg",
+    "keywords": "dessalement, traitement de l'eau, matériaux de haute qualité, dessalement d'eau de mer, purification de l'eau",
+    "navbar": {
+        "home": "Accueil",
+        "services": "Services",
+        "about": "À propos",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": {
+            "part_one": "Matériaux Premium &",
+            "part_two": "Équipements pour la Désalinisation de l'Eau de Mer."
+        },
+        "desc": "Fournir des matériaux et équipements de haute qualité pour une désalinisation efficace de l'eau de mer et un traitement de l'eau.",
+        "btn_text": "Lire la suite"
+    },
+    "services_section": {
+        "title": { "part_one": "Industries", "part_two": "desservies" },
+        "link_text": "En savoir plus",
+        "slides": [
+            {
+                "id": 1,
+                "title": "Membranes et Systèmes de Filtration",
+                "text": "Solutions de filtration efficaces pour la désalinisation de l'eau de mer et le traitement de l'eau."
+            },
+            {
+                "id": 2,
+                "title": "Solutions de Désalinisation et de Traitement de l'Eau",
+                "text": "Les solutions de désalinisation et de traitement de l'eau fournissent une eau propre et potable en éliminant les sels et les impuretés de l'eau de mer."
+            },
+            {
+                "id": 3,
+                "title": "Pompes et Équipements Hydrauliques",
+                "text": "Pompes fiables et performantes ainsi que composants hydrauliques pour un débit d'eau optimal."
+            },
+            {
+                "id": 4,
+                "title": "Systèmes de Surveillance et de Contrôle",
+                "text": "Automatisation intelligente et surveillance en temps réel pour un contrôle précis de la qualité de l'eau."
+            },
+            {
+                "id": 5,
+                "title": "Pièces de Rechange et Accessoires",
+                "text": "Pièces de rechange et accessoires durables pour garantir la performance à long terme du système."
+            }
+        ]
+    },
+    "about_section": {
+        "presentation": {
+            "title": "Experts en entretien et maintenance du dessalement de l'eau.",
+            "desc": "ABDA WATER a été créé pour fournir des matériaux et équipements de haute qualité pour le dessalement de l'eau de mer et le traitement de l'eau. Au fil des années, nous sommes devenus un fournisseur de confiance, offrant une large gamme de produits fiables garantissant efficacité et durabilité des systèmes de traitement de l'eau à travers le monde.",
+            "btn_text": "en savoir plus"
+        },
+        "description": {
+            "title": "Experts en entretien et maintenance du dessalement de l'eau.",
+            "sub_title": "Simplifier les processus commerciaux complexes",
+            "desc_part_one": "ABDA WATER est un fournisseur leader de matériaux et équipements de haute qualité pour le dessalement de l'eau de mer et le traitement de l'eau, garantissant des solutions efficaces et durables.",
+            "desc_part_two": "Ces dernières années, notre croissance a été alimentée par la demande mondiale croissante de technologies avancées de traitement de l'eau. Nous restons engagés à fournir des matériaux fiables et innovants qui améliorent la performance et la longévité des systèmes de dessalement, soutenant ainsi les industries et les communautés dans l'accès à des ressources en eau potable."
+        },
+        "features": {
+            "feat_one": {
+                "title": "Qualité & Fiabilité",
+                "desc": "Nous fournissons des matériaux et équipements haut de gamme pour le dessalement de l'eau de mer, garantissant durabilité, efficacité et conformité aux normes internationales."
+            },
+            "feat_two": {
+                "title": "Solutions Durables",
+                "desc": "Nos produits soutiennent des pratiques durables de traitement de l'eau, aidant les industries et les communautés à accéder à une eau propre tout en réduisant l'impact environnemental."
+            },
+            "feat_three": {
+                "title": "Support Expert",
+                "desc": "Notre équipe offre une expertise technique et des solutions sur mesure pour assurer des performances optimales des systèmes de dessalement et une fiabilité à long terme."
+            }
+        }
+    },
+    "contact_us": {
+        "title": "Appelez-nous ou remplissez le formulaire",
+        "desc": "Laissez vos informations et soumettez-les. Abonnez-vous à nos newsletters pour plus de mises à jour et de rapports.",
+        "form": {
+            "placeholder_name": "nom",
+            "placeholder_email": "votre e-mail",
+            "placeholder_phone": "numéro de téléphone",
+            "placeholder_msg": "message",
+            "btn_text": "envoyer le message"
+        },
+        "contact_type": {
+            "location": "Emplacement",
+            "call": "Centre d'appel",
+            "email": "Envoyez-nous un e-mail"
+        }
+    },
+    "footer": {
+        "contact": "contactez-nous",
+        "resources": "ressources",
+        "copyright": {
+            "part_one": "Droits d'auteur",
+            "part_two": "Tous droits réservés."
+        }
+    }
+}
