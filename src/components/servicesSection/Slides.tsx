@@ -8,7 +8,6 @@ import "swiper/css/pagination";
 import "swiper/css/navigation";
 import Image from "next/image";
 
-
 import WorkerIcon from "../icons/WorkerIcon";
 import DesalinationEngineeringIcon from "../icons/DesalinationEngineeringIcon";
 import FactoryIcon from "../icons/FactoryIcon";
@@ -49,15 +48,12 @@ export const industriesdithoutTitleAndText: Industry[] = [
 ];
 
 export default function Sliders() {
-
     const language = useLocale() as "fr" | "en";
     const [industries, setIndustries] = useState<Industry[]>();
-    // const t =
 
     useEffect(() => {
         const fetchIndustries = async () => {
             const industriess = await getIndustries(language);
-            console.log(industriess);
             setIndustries(industriess);
         };
         fetchIndustries();

@@ -11,8 +11,7 @@ export default function Languages() {
     const router = useRouter();
 
     const locale = useLocale();
-    console.log(locale);
-
+    
     const changeLanguage = (locale: string) => {
         router.push(`/${locale}`); // Change locale
     };

@@ -5,13 +5,11 @@ import Languages from "./Languages";
 import { AlignJustifyIcon, X } from "lucide-react";
 import NavbarMobile from "./NavbarMobile";
 import Image from "next/image";
-import { useLocale } from "next-intl";
 
 export default function Header() {
     const [showMobileMenu, setShowMobileMenu] = useState(false);
     const [scrolled, setScrolled] = useState(false);
-    const locale = useLocale();
-    console.log(locale);
+     
   
 
 

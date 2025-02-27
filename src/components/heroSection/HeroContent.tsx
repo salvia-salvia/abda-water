@@ -3,13 +3,13 @@
 import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
 import Image from "next/image";
-import { useLocale, useTranslations } from "next-intl";
+import { useTranslations } from "next-intl";
 
 export default function HeroContent() {
     const [currentIndex, setCurrentIndex] = useState(0);
     const t = useTranslations("hero");
-    const locale = useLocale();
-    console.log("locale", locale);
+    
+   
     const images = [
         "https://htmldemo.net/megan/megan/assets/img/slider/one/home_00_15.jpg",
         "https://htmldemo.net/megan/megan/assets/img/slider/six/slider-h3-2.jpg",
