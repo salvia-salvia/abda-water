@@ -9,9 +9,6 @@ import Image from "next/image";
 export default function Header() {
     const [showMobileMenu, setShowMobileMenu] = useState(false);
     const [scrolled, setScrolled] = useState(false);
-     
-  
-
 
     // Add event listener for scroll
     useEffect(() => {
@@ -39,7 +36,7 @@ export default function Header() {
         }
 
         return () => {
-            document.body.classList.remove("overflow-hidden"); 
+            document.body.classList.remove("overflow-hidden");
         };
     }, [showMobileMenu]);
 
@@ -73,7 +70,6 @@ export default function Header() {
                             height={60}
                             priority
                         />
-                      
                     </picture>
 
                     <div className={`flex items-center gap-2 md:gap-10`}>

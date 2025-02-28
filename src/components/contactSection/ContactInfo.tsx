@@ -2,6 +2,7 @@ import LocationIcon from "../icons/LocationIcon";
 import EmailIcon from "../icons/EmailIcon";
 import Contact2Icon from "../icons/Contact2Icon";
 import { useTranslations } from "next-intl";
+import { EMAIL, LOACTION, PHONE_NUMBER } from "@/constants";
 export default function ContactInfo() {
     const t = useTranslations("contact_us.contact_type");
     return (
@@ -13,8 +14,8 @@ export default function ContactInfo() {
                         <h3 className="text-sm md:text-xl font-semibold text-[#222]">
                             {t("location")}
                         </h3>
-                        <p className="text-xs md:text-base text-secondary">
-                            USA, New York - 1060 <br /> Str. First Avenue 1
+                        <p className="text-xs md:text-base text-secondary w-[200px]">
+                        {LOACTION}
                         </p>
                     </span>
                 </li>
@@ -25,7 +26,7 @@ export default function ContactInfo() {
                             {t("call")}
                         </h3>
                         <p className="text-xs md:text-base text-secondary">
-                            24/7 Support <br /> 1800 567 8990
+                            24/7 Support <br /> {PHONE_NUMBER}
                         </p>
                     </span>
                 </li>
@@ -35,8 +36,8 @@ export default function ContactInfo() {
                         <h3 className="text-sm md:text-xl font-semibold text-[#222]">
                             {t("email")}
                         </h3>
-                        <p className="text-xs md:text-base text-secondary">
-                            about@company.com <br /> contact@company.com
+                        <p className="text-xs mb-3.5 md:text-base text-secondary">
+                            {EMAIL}
                         </p>
                     </span>
                 </li>

@@ -1,7 +1,7 @@
 {
-    "title": "Abda Water - Matériaux de Dessalement et de Traitement de l'Eau",
+    "title": "Abda Water Industry - Matériaux de Dessalement et de Traitement de l'Eau",
     "description": "Fournisseur leader de matériaux et d'équipements de haute qualité pour le dessalement de l'eau de mer et le traitement de l'eau, garantissant durabilité et efficacité.",
-    "og_title": "Abda Water - Matériaux de Dessalement et de Traitement de l'Eau",
+    "og_title": "Abda Water Industry - Matériaux de Dessalement et de Traitement de l'Eau",
     "og_description": "Fournisseur leader de matériaux et d'équipements de haute qualité pour le dessalement de l'eau de mer et le traitement de l'eau, garantissant durabilité et efficacité.",
     "og_image": "/icons/primary-logo.svg",
     "keywords": "dessalement, traitement de l'eau, matériaux de haute qualité, dessalement d'eau de mer, purification de l'eau",
@@ -20,7 +20,7 @@
         "btn_text": "Lire la suite"
     },
     "services_section": {
-        "title": { "part_one": "Industries", "part_two": "desservies" },
+        "title": { "part_one": "Nos", "part_two": "services" },
         "link_text": "En savoir plus",
         "slides": [
             {
@@ -53,13 +53,13 @@
     "about_section": {
         "presentation": {
             "title": "Experts en entretien et maintenance du dessalement de l'eau.",
-            "desc": "ABDA WATER a été créé pour fournir des matériaux et équipements de haute qualité pour le dessalement de l'eau de mer et le traitement de l'eau. Au fil des années, nous sommes devenus un fournisseur de confiance, offrant une large gamme de produits fiables garantissant efficacité et durabilité des systèmes de traitement de l'eau à travers le monde.",
+            "desc": "ABDA WATER INDUSTRY a été récemment créé avec pour mission de fournir des matériaux et équipements de haute qualité pour le dessalement de l'eau de mer et le traitement de l'eau. Dès le départ, nous nous engageons à offrir des solutions fiables et performantes, garantissant l’efficacité et la durabilité des systèmes de traitement de l’eau.",
             "btn_text": "en savoir plus"
         },
         "description": {
             "title": "Experts en entretien et maintenance du dessalement de l'eau.",
             "sub_title": "Simplifier les processus commerciaux complexes",
-            "desc_part_one": "ABDA WATER est un fournisseur leader de matériaux et équipements de haute qualité pour le dessalement de l'eau de mer et le traitement de l'eau, garantissant des solutions efficaces et durables.",
+            "desc_part_one": "ABDA WATER INDUSTRY est un fournisseur leader de matériaux et équipements de haute qualité pour le dessalement de l'eau de mer et le traitement de l'eau, garantissant des solutions efficaces et durables.",
             "desc_part_two": "Ces dernières années, notre croissance a été alimentée par la demande mondiale croissante de technologies avancées de traitement de l'eau. Nous restons engagés à fournir des matériaux fiables et innovants qui améliorent la performance et la longévité des systèmes de dessalement, soutenant ainsi les industries et les communautés dans l'accès à des ressources en eau potable."
         },
         "features": {

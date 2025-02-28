@@ -1,6 +1,7 @@
 import { useTranslations } from "next-intl";
 import MapLocationIcon from "../icons/MapLocationIcon";
 import PhoneCallIcon from "../icons/PhoneCallIcon";
+import { LOACTION, PHONE_NUMBER } from "@/constants";
 
 export default function ContactInfoFooter() {
     const t = useTranslations("footer");
@@ -13,13 +14,13 @@ export default function ContactInfoFooter() {
                 <li className="flex items-center gap-3">
                     <MapLocationIcon className="h-6 w-6 fill-primary" />
                     <span className="text-xs md:text-sm">
-                        USA, New York - 1060 Str. First Avenue 1
+                         {LOACTION}
                     </span>
                 </li>
 
                 <li className="flex items-center gap-3">
                     <PhoneCallIcon className="h-6 w-6 fill-primary" />
-                    <span className="text-xs md:text-sm">+34 627 18 42 51</span>
+                    <span className="text-xs md:text-sm">{PHONE_NUMBER}</span>
                 </li>
             </ul>
         </div>
